@@ -2,18 +2,7 @@
 
 Repository created for It Academy Git module.
 
-## Author
+## About me
+Evelyn Merlo - IT Academy Git practice
 
-Evelyn Merlo
-
-## Git Commands Practiced
-
-- git init
-- git add
-- git commit
-- git log
-- git push
-- git pull
-- git branch
-- git checkout
-- git merge
+Learning Git, GitHub, branches and pull requests.
